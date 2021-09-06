@@ -1,0 +1,33 @@
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
+body{
+    background-color: black;
+    background-image: url(images/bng.jpg);
+}
+
+.img-png{
+    width: auto;
+}
+.img-10{
+    width: auto;
+}
+.img-9{
+    width: auto;
+}
+.img-8 {
+    width: auto;
+}
+.img-7{
+    width: auto;
+}
+.img-5{
+    width: auto;
+}
+.img-4{
+    width: auto;
+}
+.img-2 {
+    width: auto;
+}
